@@ -85,7 +85,7 @@ section .title::after{
     padding: 10px 0 15px 0;
     font-family: 'Ubuntu', sans-serif;
     transition: all 0.3s ease;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0);
 }
 .menu{
     margin-top: 20px;
