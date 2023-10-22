@@ -355,21 +355,21 @@ li{
 
 /*-------------------------------------------------------services section styling---------------------------------------------------*/
 .services, .teams{
-    color:#fff;
-    background: #111;
+    color:#000000;
+    /* background: #111; */
 }
 .services .title::before,
 .teams .title::before{
-    background: #fff;
+    background: #000000;
 }
 .services .title::after,
 .teams .title::after{
-    background: #111;
+    /* background: #111; */
     content: "what i provide";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
-    background: #222;
+    /* background: #222; */
     text-align: center;
     border-radius: 6px;
     padding: 50px 25px;
@@ -449,22 +449,22 @@ li{
     background: #055D72;
 }
 .skills-content .right .html::before{
-    width: 64%;
+    width: 100%;
 }
 .skills-content .right .css::before{
-    width: 58%;
+    width: 100%;
 }
 .skills-content .right .SEM::before{
-    width: 70%;
+    width: 100%;
 }
 .skills-content .right .SEO::before{
-    width: 75%;
+    width: 100%;
 }
 .skills-content .right .ILLUSTRATOR::before{
-    width: 90%;
+    width: 100%;
 }
 .skills-content .right .PHOTOSHOP::before{
-    width: 60%;
+    width: 100%;
 }
 /*------------------------------------------------------------teams section styling-----------------------------------------------------*/
 .teams .title::after{
